@@ -85,3 +85,4 @@ Sau khi khắc phục được sự cố biên dịch, hãy chạy *sysinfotest*
 - Để thu hồi bộ nhớ trống, hãy thêm một hàm vào *kernel/kalloc.c*
 - Để thu hồi tiến trình, hãy thêm một hàm vào *kernel/proc.c*
 
+# [Tài liệu tham khảo](https://pdos.csail.mit.edu/6.828/2020/labs/syscall.html)
